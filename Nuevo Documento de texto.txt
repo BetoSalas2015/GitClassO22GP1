@@ -1,0 +1,7 @@
+# Archivos a ignorar en el reposirtorio
+
+Nuevo documento de texto.txt
+*.tmp
+
+# Carpetas a ignorar en el repositorio
+modules/
